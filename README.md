@@ -1,6 +1,5 @@
 # credit-score-prediction-with-XAI-techniques
 
-**A complete, single-document README (copy-paste ready).**  
 Predict a continuous **credit score `y`** from **304 numeric features** (`x001 … x304`) with rigorous **missing-data analysis**, **MICE** imputation, a strong **LightGBM** baseline, **feature selection (RFE)**, a **Neural Monotonic Additive Model (NMAM)** for domain-aligned interpretability, and **Explainable AI (XAI)** (primarily **SHAP / TreeSHAP**, plus intrinsic diagnostics and recommended extensions).
 
 > **Goal.** Build a trustworthy, high-accuracy credit-score regressor that  
