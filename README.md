@@ -1,3 +1,4 @@
+# ~~~~~~~~"Each notebooks in each folder have their own set of documentations in '.md' format that can guide you with those notebooks."~~~~~~~~
 # credit-score-prediction-with-XAI-techniques
 
 Predict a continuous **credit score `y`** from **304 numeric features** (`x001 … x304`) with rigorous **missing-data analysis**, **MICE** imputation, a strong **LightGBM** baseline, **feature selection (RFE)**, a **Neural Monotonic Additive Model (NMAM)** for domain-aligned interpretability, and **Explainable AI (XAI)** (primarily **SHAP / TreeSHAP**, plus intrinsic diagnostics and recommended extensions).
